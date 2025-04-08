@@ -1,4 +1,4 @@
-# Python Program: Build a Binary Search Tree Using a Built-in Function
+#  Build a Binary Search Tree Using a Built-in Function
 
 ## Aim
 To create a binary search tree (BST) in Python using a recursive function. The program gets input from the user, builds the BST from a sorted list, prints the post-order traversal, and verifies if the constructed tree is a valid BST.
